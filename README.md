@@ -13,6 +13,8 @@ Turn body poses into musical notes in the browser using:
 - Each frame, it predicts the top pose class.
 - If confidence is high enough, it plays a mapped note.
 
+Use Teachable Machine's pose detector to generate the model/metadata/weights files. Name each pose as a single capital letter to denote a musical note. 
+
 Current note map:
 
 - `A` -> C4 (261.63 Hz)
