@@ -1,4 +1,4 @@
-# Pose Music Workshop
+# Pose to Music Workshop
 
 Turn body poses into musical notes in the browser using:
 
