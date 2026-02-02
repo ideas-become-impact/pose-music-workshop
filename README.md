@@ -15,15 +15,15 @@ Turn body poses into musical notes in the browser using:
 
 Use Teachable Machine's pose detector to generate the model/metadata/weights files. Name each pose as a single capital letter to denote a musical note. 
 
-Current note map:
+Current note map (same letter -> same note in octave 4):
 
-- `A` -> C4 (261.63 Hz)
-- `B` -> D4 (293.66 Hz)
-- `C` -> E4 (329.63 Hz)
-- `D` -> F4 (349.23 Hz)
-- `E` -> G4 (392.00 Hz)
-- `F` -> A4 (440.00 Hz)
-- `G` -> B4 (493.88 Hz)
+- `A` -> A4 (440.00 Hz)
+- `B` -> B4 (493.88 Hz)
+- `C` -> C4 (261.63 Hz)
+- `D` -> D4 (293.66 Hz)
+- `E` -> E4 (329.63 Hz)
+- `F` -> F4 (349.23 Hz)
+- `G` -> G4 (392.00 Hz)
 
 Class names can be either:
 
